@@ -1,4 +1,4 @@
-##🖥️ a. OS Installation
+#🖥️ a. OS Installation
 I installed Tiny Core Linux using VMware Workstation Player.
 The ISO was downloaded from its official website and configured
 with 8 GB virtual disk space. I followed standard setup steps to boot 
